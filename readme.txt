@@ -59,24 +59,26 @@ Pointers
 --------
 
 AWS Home Page (sources and printable documentations in Postscript and PDF):
-   http://libre.adacore.com/tools/aws
+
+   https://www.adacore.com/gnatpro/toolsuite/ada-web-server
 
 Templates_Parser sources:
+
    Templates_Parser module (sources and documentation) is provided with AWS
    distribution.
 
-GNU/Ada - GNAT
+GNU/Ada - GNAT:
 
    You need at least GNAT 2015 GPL Edition or GNAT Pro 7.2
 
-   http://libre.adacore.com/tools/gnat-gpl-edition/
+   https://www.adacore.com/community
 
 XML/Ada (optional):
 
    You need this library only if you want to use AWS SOAP feature. You need
    at least XML/Ada version 2.2.0.
-
-   http://libre.adacore.com/
+   
+   For information on how to obtain this library see https://github.com/AdaCore/xmlada
 
 OpenSSL (optional):
 
@@ -123,7 +125,7 @@ about AWS. In the early stage of the project this is very valuable.
 
 So thanks goes to Georg Bauhaus, Ted Dennison, Wiljan Derks, Sune Falck,
 David C. Hoos, Audran Le Baron, Thierry Lelegard, Nicolas Lesbats,
-Olivier Ramonat, Jean-François Rameau, Maxim Reznik, Jean-Pierre Rosen,
+Olivier Ramonat, Jean-FranÃ§ois Rameau, Maxim Reznik, Jean-Pierre Rosen,
 Jerme Roussel, Ariane Sinibardy, Henrik Sundberg.
 
 
